@@ -9,13 +9,14 @@
 ## Current Projects
 
 - **[Open Computer Use](https://github.com/iFurySt/open-codex-computer-use)** - open-source macOS Computer Use MCP server, built as a Codex Computer Use alternative.
-- **[Harness Template](https://github.com/iFurySt/harness-template)** / **[中文](https://github.com/iFurySt/harness-template-cn)** - a production-ready base for agent-driven software.
-- **[RedNote MCP](https://github.com/iFurySt/RedNote-MCP)** - MCP server for accessing RedNote / Xiaohongshu from AI agents.
+- **[Harness Template](https://github.com/iFurySt/harness-template)** / **[Harness Template CN](https://github.com/iFurySt/harness-template-cn)** - a production-ready base for agent-driven software.
+- **[Unla](https://github.com/AmoyLab/Unla)** - MCP gateway for turning existing MCP servers and APIs into MCP servers with zero code changes.
 - **[DESIGN.md](https://github.com/iFurySt/DESIGN.md)** - drop-in design-system references for coding agents.
-- **[LLM Wiki](https://github.com/iFurySt/LLM-Wiki)** - agent-native knowledge service for documents, revisions, grounding, and collaboration.
-- **[Harness Kit](https://github.com/iFurySt/harness-kit)** - experiments for bootstrapping agents that can build, test, and iterate reliably.
-- **[LeoDailyIngest](https://github.com/iFurySt/LeoDailyIngest)** - part of my daily information diet for building context and judgment.
-- **[Ripple](https://github.com/iFurySt/Ripple)** - Notion-first workflow for turning structured ideas into published artifacts.
+
+## Archived Projects
+
+- **[RedNote MCP](https://github.com/iFurySt/RedNote-MCP)** - MCP server for accessing RedNote / Xiaohongshu from AI agents.
+- **[OpenHands](https://github.com/OpenHands/OpenHands)** - AI-driven development platform.
 
 ## What I'm Exploring
 

@@ -8,10 +8,9 @@
 
 ## What I'm Exploring
 
-- Agent-first software engineering
-- Context engineering and durable repo knowledge
-- MCP servers, GUI automation, and local tools for AI agents
-- AI-native knowledge workflows and personal operating systems
+- Agent harnesses end to end: from ReAct loops to sandbox infrastructure, with strong product sense across the stack.
+- Multi-agent systems: orchestrators, lead agents, A2A collaboration, and durable execution workflows.
+- Whatever feels worth building: vibe coding, open source, and time are tools; curiosity and relentless tinkering are the constants.
 
 ## Current Projects
 

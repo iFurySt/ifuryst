@@ -25,7 +25,9 @@
 - **[RedNote MCP](https://github.com/iFurySt/RedNote-MCP)** - MCP server for accessing RedNote / Xiaohongshu from AI agents.
 - **[OpenHands](https://github.com/OpenHands/OpenHands)** - AI-driven development platform.
 
-## And now, presenting the star of the show
+## The Real Boss
+
+And now, presenting the star of the show (I need to earn money to support this boss):
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/01ac003e-b35c-43fb-8986-e192c4c8e1d6" alt="lz" width="360" height="480">

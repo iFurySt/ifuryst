@@ -6,6 +6,13 @@
 - I've got a British Shorthair cat, a hefty 8-kilo furball named Liangzai(cool guy in Cantonese). He's mean, mischievous, but undeniably handsome.
 - Want to know more? Check out my website here: [EN](https://en.ifuryst.com), [中文](https://www.ifuryst.com).
 
+## What I'm Exploring
+
+- Agent-first software engineering
+- Context engineering and durable repo knowledge
+- MCP servers, GUI automation, and local tools for AI agents
+- AI-native knowledge workflows and personal operating systems
+
 ## Current Projects
 
 - **[Open Computer Use](https://github.com/iFurySt/open-codex-computer-use)** - open-source macOS Computer Use MCP server, built as a Codex Computer Use alternative.
@@ -17,13 +24,6 @@
 
 - **[RedNote MCP](https://github.com/iFurySt/RedNote-MCP)** - MCP server for accessing RedNote / Xiaohongshu from AI agents.
 - **[OpenHands](https://github.com/OpenHands/OpenHands)** - AI-driven development platform.
-
-## What I'm Exploring
-
-- Agent-first software engineering
-- Context engineering and durable repo knowledge
-- MCP servers, GUI automation, and local tools for AI agents
-- AI-native knowledge workflows and personal operating systems
 
 And now, presenting the star of the show:
 

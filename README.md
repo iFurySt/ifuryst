@@ -12,15 +12,15 @@
 - Multi-agent systems: orchestrators, lead agents, A2A collaboration, and durable execution workflows.
 - Whatever feels worth building: vibe coding, open source, and time are tools; curiosity and relentless tinkering are the constants.
 
-## Current Projects
+## 🚀 Current Projects
 
 - **[Open Computer Use](https://github.com/iFurySt/open-codex-computer-use)** - open-source macOS Computer Use MCP server, built as a Codex Computer Use alternative.
 - **[Harness Template](https://github.com/iFurySt/harness-template)** / **[Harness Template CN](https://github.com/iFurySt/harness-template-cn)** - a production-ready base for agent-driven software.
 - **[Unla](https://github.com/AmoyLab/Unla)** - MCP gateway for turning existing MCP servers and APIs into MCP servers with zero code changes.
 - **[Agent Bar](https://github.com/iFurySt/agent-bar)** - lightweight macOS top overlay for Codex quota, token, and cost usage.
-- **[sandbox-local](https://github.com/iFurySt/sandbox-local)** - local sandbox environment for agent development and testing.
+- **[Agent Local](https://github.com/iFurySt/sandbox-local)** - local sandbox environment for agent development and testing.
 
-## Archived Projects
+## 🗂️ Archived Projects
 
 - **[RedNote MCP](https://github.com/iFurySt/RedNote-MCP)** - MCP server for accessing RedNote / Xiaohongshu from AI agents.
 - **[OpenHands](https://github.com/OpenHands/OpenHands)** - AI-driven development platform.

@@ -18,7 +18,7 @@
 - 🧰 **[Harness Template](https://github.com/iFurySt/harness-template)** / **[Harness Template CN](https://github.com/iFurySt/harness-template-cn)** - a production-ready base for agent-driven software.
 - 🌉 **[Unla](https://github.com/AmoyLab/Unla)** - MCP gateway for turning existing MCP servers and APIs into MCP servers with zero code changes.
 - 📊 **[Agent Bar](https://github.com/iFurySt/agent-bar)** - lightweight macOS top overlay for Codex quota, token, and cost usage.
-- 🧪 **[Agent Local](https://github.com/iFurySt/sandbox-local)** - local sandbox environment for agent development and testing.
+- 🛡️ **[Sandbox Local](https://github.com/iFurySt/sandbox-local)** - ultra-lightweight local sandbox for Windows, macOS, and Linux, without Docker.
 
 ## Archived Projects
 

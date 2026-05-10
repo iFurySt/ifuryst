@@ -15,7 +15,7 @@
 ## Current Projects
 
 - 🖥️ **[Open Computer Use](https://github.com/iFurySt/open-codex-computer-use)** - open-source macOS Computer Use MCP server, built as a Codex Computer Use alternative.
-- 🌐 **[Open Browser Use](https://github.com/iFurySt/open-codex-browser-use)** - Platform-neutral, open-source Chrome Browser Use for AI agents, with extension, CLI, and JS/Python SDKs.
+- 🌐 **[Open Browser Use](https://github.com/iFurySt/open-codex-browser-use)** - Platform-neutral, open-source Chrome Browser Use for AI agents.
 - 🧰 **[Harness Template](https://github.com/iFurySt/harness-template)** / **[Harness Template CN](https://github.com/iFurySt/harness-template-cn)** - a production-ready base for agent-driven software.
 - 🌉 **[Unla](https://github.com/AmoyLab/Unla)** - MCP gateway for turning existing MCP servers and APIs into MCP servers with zero code changes.
 - 📊 **[Agent Bar](https://github.com/iFurySt/agent-bar)** - lightweight macOS top overlay for Codex quota, token, and cost usage.

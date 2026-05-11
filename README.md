@@ -16,6 +16,7 @@
 
 - 🖥️ **[Open Computer Use](https://github.com/iFurySt/open-codex-computer-use)** - Cross-platform, open-source Computer Use MCP server for AI agents.
 - 🌐 **[Open Browser Use](https://github.com/iFurySt/open-codex-browser-use)** - Platform-neutral, open-source Chrome Browser Use for AI agents.
+- 💰 **[AIFi](https://github.com/iFurySt/aifi)** - agent-first AI Finance workspace for compounding investment research and insight.
 - 🧰 **[Harness Template](https://github.com/iFurySt/harness-template)** / **[Harness Template CN](https://github.com/iFurySt/harness-template-cn)** - a production-ready base for agent-driven software.
 - 🌉 **[Unla](https://github.com/AmoyLab/Unla)** - MCP gateway for turning existing MCP servers and APIs into MCP servers with zero code changes.
 - 📊 **[Agent Bar](https://github.com/iFurySt/agent-bar)** - lightweight macOS top overlay for Codex quota, token, and cost usage.

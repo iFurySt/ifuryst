@@ -16,13 +16,14 @@
 
 - 🖥️ **[Open Computer Use](https://github.com/iFurySt/open-codex-computer-use)** - Cross-platform, open-source Computer Use MCP server for AI agents.
 - 🌐 **[Open Browser Use](https://github.com/iFurySt/open-codex-browser-use)** - Platform-neutral, open-source Chrome Browser Use for AI agents.
-- 💰 **[AIFi](https://github.com/iFurySt/aifi)** - agent-first AI Finance workspace for compounding investment research and insight.
-- 🧰 **[Harness Template](https://github.com/iFurySt/harness-template)** / **[Harness Template CN](https://github.com/iFurySt/harness-template-cn)** - a production-ready base for agent-driven software.
+- 💰 **[AIFi](https://github.com/iFurySt/aifi)** - Agent-first AI Finance workspace for compounding investment research and insight.
+- 🧰 **[Harness Template](https://github.com/iFurySt/harness-template)** / **[Harness Template CN](https://github.com/iFurySt/harness-template-cn)** - A production-ready base for agent-driven software.
+- 📊 **[nanoLLMServe](https://github.com/iFurySt/nanoLLMServe)** - A tiny, readable LLM serving engine with vLLM/SGLang-style features.
+- 📊 **[Agent Bar](https://github.com/iFurySt/agent-bar)** - Lightweight macOS top overlay for Codex quota, token, and cost usage.
+- 🛡️ **[Sandbox Local](https://github.com/iFurySt/sandbox-local)** - Ultra-lightweight local sandbox for Windows, macOS, and Linux, without Docker.
+- 📈 **[Visual HTML Gen UI](https://github.com/iFurySt/visual-html-gen-ui)** - Standalone HTML chart skill for Gen-UI agents and generated UI workflows.
+- 🎨 **[Open Claude Gen UI](https://github.com/usoonees/open-claude-gen-ui)** - Streaming Claude-style Gen UI in chat.
 - 🌉 **[Unla](https://github.com/AmoyLab/Unla)** - MCP gateway for turning existing MCP servers and APIs into MCP servers with zero code changes.
-- 📊 **[Agent Bar](https://github.com/iFurySt/agent-bar)** - lightweight macOS top overlay for Codex quota, token, and cost usage.
-- 🛡️ **[Sandbox Local](https://github.com/iFurySt/sandbox-local)** - ultra-lightweight local sandbox for Windows, macOS, and Linux, without Docker.
-- 📈 **[Visual HTML Gen UI](https://github.com/iFurySt/visual-html-gen-ui)** - standalone HTML chart skill for Gen-UI agents and generated UI workflows.
-- 🎨 **[Open Claude Gen UI](https://github.com/usoonees/open-claude-gen-ui)** - streaming Claude-style Gen UI in chat.
 
 ## Archived Projects
 

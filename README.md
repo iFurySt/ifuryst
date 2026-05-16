@@ -18,7 +18,7 @@
 - 🌐 **[Open Browser Use](https://github.com/iFurySt/open-codex-browser-use)** - Platform-neutral, open-source Chrome Browser Use for AI agents.
 - 💰 **[AIFi](https://github.com/iFurySt/aifi)** - Agent-first AI Finance workspace for compounding investment research and insight.
 - 🧰 **[Harness Template](https://github.com/iFurySt/harness-template)** / **[Harness Template CN](https://github.com/iFurySt/harness-template-cn)** - A production-ready base for agent-driven software.
-- 📊 **[nanoLLMServe](https://github.com/iFurySt/nanoLLMServe)** - A tiny, readable LLM serving engine with vLLM/SGLang-style features.
+- 🧠 **[Nano LLM Serve](https://github.com/iFurySt/nanoLLMServe)** - A tiny, readable LLM serving engine with vLLM/SGLang-style features.
 - 📊 **[Agent Bar](https://github.com/iFurySt/agent-bar)** - Lightweight macOS top overlay for Codex quota, token, and cost usage.
 - 🛡️ **[Sandbox Local](https://github.com/iFurySt/sandbox-local)** - Ultra-lightweight local sandbox for Windows, macOS, and Linux, without Docker.
 - 📈 **[Visual HTML Gen UI](https://github.com/iFurySt/visual-html-gen-ui)** - Standalone HTML chart skill for Gen-UI agents and generated UI workflows.

@@ -22,6 +22,7 @@
 - 📊 **[Agent Bar](https://github.com/iFurySt/agent-bar)** - lightweight macOS top overlay for Codex quota, token, and cost usage.
 - 🛡️ **[Sandbox Local](https://github.com/iFurySt/sandbox-local)** - ultra-lightweight local sandbox for Windows, macOS, and Linux, without Docker.
 - 📈 **[Visual HTML Gen UI](https://github.com/iFurySt/visual-html-gen-ui)** - standalone HTML chart skill for Gen-UI agents and generated UI workflows.
+- 🎨 **[Open Claude Gen UI](https://github.com/usoonees/open-claude-gen-ui)** - Claude-inspired visual response UI for generating interactive charts, diagrams, and visualizations in chat.
 
 ## Archived Projects
 

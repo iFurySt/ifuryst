@@ -15,6 +15,7 @@
 ## Current Projects
 
 - 🧭 **[OpenARD](https://github.com/iFurySt/OpenARD)** - Neutral self-hosted registry and toolkit for Agentic Resource Discovery.
+- 🧩 **[Managed Agents](https://github.com/iFurySt/managed-agents)** - Open-source control plane for running AI agents in secure, observable sandboxes.
 - 🖥️ **[Open Computer Use](https://github.com/iFurySt/open-codex-computer-use)** - Cross-platform, open-source Computer Use MCP server for AI agents.
 - 🌐 **[Open Browser Use](https://github.com/iFurySt/open-codex-browser-use)** - Platform-neutral, open-source Chrome Browser Use for AI agents.
 - 💰 **[AIFi](https://github.com/iFurySt/aifi)** - Agent-first AI Finance workspace for compounding investment research and insight.

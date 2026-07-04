@@ -12,7 +12,11 @@
 - Multi-agent systems: orchestrators, lead agents, A2A collaboration, and durable execution workflows.
 - Whatever feels worth building: vibe coding, open source, and time are tools; curiosity and relentless tinkering are the constants.
 
-## Current Projects
+## Products I'm Building
+
+- 🎙️ **[HeyYo](https://hey-yo.app/)** - AI dictation app that turns messy speech into clean, paste-ready writing across apps.
+
+## Open Source Projects
 
 - 🧭 **[OpenARD](https://github.com/iFurySt/OpenARD)** - Neutral self-hosted registry and toolkit for Agentic Resource Discovery.
 - 🧩 **[Managed Agents](https://github.com/iFurySt/managed-agents)** - Open-source control plane for running AI agents in secure, observable sandboxes.

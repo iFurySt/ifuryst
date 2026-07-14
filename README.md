@@ -30,6 +30,7 @@
 - 📈 **[Visual HTML Gen UI](https://github.com/iFurySt/visual-html-gen-ui)** - Standalone HTML chart skill for Gen-UI agents and generated UI workflows.
 - 🎨 **[Open Claude Gen UI](https://github.com/usoonees/open-claude-gen-ui)** - Streaming Claude-style Gen UI in chat.
 - 🌉 **[Unla](https://github.com/AmoyLab/Unla)** - MCP gateway for turning existing MCP servers and APIs into MCP servers with zero code changes.
+- 🎨 **[DESIGN.md](https://github.com/iFurySt/DESIGN.md)** - Drop-in design-system references for coding agents.
 
 ## Archived Projects
 

@@ -14,7 +14,7 @@
 
 ## Products I'm Building
 
-- 🎙️ **[HeyYo](https://hey-yo.app/)** - AI dictation app that turns messy speech into clean, paste-ready writing across apps.
+- 🎙️ **[HeyYo](https://hey-yo.app/)** - AI dictation app that turns messy speech into clean, paste-ready writing across apps. ([Architecture Evolution](https://www.ifuryst.com/blog/2026/one-trend-the-gpt-5-6-launch-made-me-realize/))
 
 ## Open Source Projects
 
